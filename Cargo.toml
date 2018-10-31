@@ -12,4 +12,6 @@ readme = "README.md"
 pest = "2.0"
 pest_derive = "2.0"
 structopt = "0.2.12"
-railroad = "0.1"
+#railroad = "0.1"
+#railroad = { git = "https://github.com/birkenfeld/railroad" }
+railroad = { path = "../railroad" }
