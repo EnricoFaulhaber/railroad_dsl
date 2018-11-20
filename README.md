@@ -1,6 +1,7 @@
 A small DSL to generate syntax diagrams using [this library](https://github.com/lukaslueg/railroad).
 
-[![Crates.io Version](https://img.shields.io/crates/v/railroad_dsl.svg)](https://crates.io/crates/railroad_dsl)[![Build Status](https://travis-ci.org/lukaslueg/railroad_dsl.svg?branch=master)](https://travis-ci.org/lukaslueg/railroad_dsl)
+[![Crates.io Version](https://img.shields.io/crates/v/railroad_dsl.svg)](https://crates.io/crates/railroad_dsl)
+[![Build Status](https://travis-ci.org/lukaslueg/railroad_dsl.svg?branch=master)](https://travis-ci.org/lukaslueg/railroad_dsl)
 
 **[Some examples](https://htmlpreview.github.io/?https://github.com/lukaslueg/railroad_dsl/blob/master/examples/example_diagrams.html)**
 
@@ -30,4 +31,5 @@ For example:
   'foreign-key-clause'>}
 ```
 
-![diagram for constraint syntax](https://raw.githubusercontent.com/lukaslueg/railroad_dsl/master/examples/column_constraint.jpeg)
+[![diagram for constraint syntax](https://github.com/EnricoFaulhaber/railroad_dsl/blob/master/examples/column_constraint.svg)](x)
+
